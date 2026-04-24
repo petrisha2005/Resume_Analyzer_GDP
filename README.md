@@ -1,3 +1,12 @@
+DEPLOYED LINK (LIVE DEMO )
+“Deployed using Firebase Hosting on Google Cloud Platform.
+
+Live Demo: https://ai-skill-app-801eb.web.app”
+
+
+
+
+
 🚀 AI Skill Gap Analyzer & Career Readiness Platform
 An intelligent, full-stack web application that analyzes a user’s resume, GitHub, and LinkedIn profiles to evaluate skill levels, detect gaps, and generate a personalized roadmap to improve career readiness.
 This platform goes beyond basic recommendations by verifying actual knowledge through quizzes, tracking learning progress, and providing real-time, data-driven insights.
