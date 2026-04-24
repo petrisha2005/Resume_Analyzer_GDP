@@ -1,7 +1,7 @@
 DEPLOYED LINK (LIVE DEMO )
 “Deployed using Firebase Hosting on Google Cloud Platform.
 
-Live Demo: https://ai-skill-app-801eb.web.app”
+Live Demo:https://ai-skill-app-801eb.web.app
 
 
 
